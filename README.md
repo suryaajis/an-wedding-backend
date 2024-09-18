@@ -87,22 +87,24 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 
 ## Package Requirement
 
-Zod
+```
+- Zod
 npm install zod
 
-Prisma
+- Prisma
 npm install --save-dev prisma
 
-Winston
+- Winston
 npm install nest-winston
 
-Bcrypt
+- Bcrypt
 npm install bcrypt
 npm install --save-dev @types/bcrypt
 
-UUID
+- UUID
 npm install uuid
 npm install --save-dev @types/uuid
 
-Nest Config
+- Nest Config
 npm install @nestjs/config
+```
